@@ -15,4 +15,3 @@ This was an ambitious project where we developed a fully functional singleplayer
 * Top down shooter
 * Cube/square based artwork
 * Zombie shooter
-# TeamProject
